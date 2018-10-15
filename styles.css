@@ -1,0 +1,42 @@
+h1 {
+    color: rgb(238, 166, 99); 
+  }
+  
+  .headline {
+    padding: 120px;
+    font-family: 'Bungee Inline', cursive;
+    font-size: 77px;
+  }
+  
+  .navbar-light .navbar-brand {
+    color: rgb(233, 76, 76);
+    font-family: 'Cabin Sketch', cursive;
+  }
+
+  .nav-link {
+    font-family: 'Cabin Sketch';
+  }
+  
+  .jumbotron {
+    background-image: url(MarchApril_BeerStory_fullwidth1.jpg);
+    background-attachment: fixed;
+    background-size: contain;  
+  }
+  
+  .logo {
+    height: 40px;
+  }
+
+  .title {
+    font-family: 'Patua One';
+  }
+
+  .table {
+    font-family: 'Carter One';
+  }
+
+  .footnote {
+    font-family: 'Boogaloo';
+  }
+
+  
