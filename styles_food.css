@@ -26,19 +26,23 @@
     height: 40px;
   }
 
-  .title {
-    font-family: 'Patua One';
-    color: rgb(25, 97, 230);
+  .table {
+    font-family: 'Carter One'; background-color: blanchedalmond;
   }
 
-  .table {
+  .core {
+    font-family: "Carter One";
+  }
+
+  .col-sm-8 { 
     font-family: 'Carter One';
   }
 
-  .overall { 
-    font-family: 'Boogaloo';
+  h1 {
+    font-family: 'Patua One';
   }
-
+  
   h2 {
-    color: rgb(53, 20, 240);
+    color: rgb(216, 205, 53);
+    font-family: 'Patua One';
   }
